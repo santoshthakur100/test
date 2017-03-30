@@ -1,0 +1,1 @@
+function main(){}function main2(){}function main3(){}function main4(){}function foo(){console.log("Success")}function myFun(){console.log("Massage 1")}function foo1(){console.log("Massage 2")}function module2(){}
